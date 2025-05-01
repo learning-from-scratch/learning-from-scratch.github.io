@@ -3,6 +3,7 @@ title: "Welcome to My Learning Journey: Learning from Scratch()!"
 date: 2025-05-01 12:00:00 +1000
 categories: [Personal, Introduction]
 tags: [About Me]
+comments: true
 ---
 
 Hello, everyone! I'm Brennan Terre, currently pursuing a Master's Degree in Data Science at Deakin University in Australia. Originally, I created this blog to fulfill a requirement for my unit, SIT771 - Object Oriented Development. However, as I thought more about its potential, I realized it could serve as an invaluable companion throughout my studies, and perhaps even beyond!
