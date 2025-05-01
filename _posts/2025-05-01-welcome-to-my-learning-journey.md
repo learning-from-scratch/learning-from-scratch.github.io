@@ -17,6 +17,6 @@ Initially, this blog series will focus on C#, a language I'm exploring deeply fo
 
 I hope this blog becomes a helpful resource for beginners and grows alongside my skills to eventually cover intermediate and advanced topics. Please bookmark the page and visit again soon. I promise it will be both fun and enlightening!
 
-Happy coding (and learning with Pandolf)!
+Happy coding (and learning with Pandolf)!!
 
 — Brennan
