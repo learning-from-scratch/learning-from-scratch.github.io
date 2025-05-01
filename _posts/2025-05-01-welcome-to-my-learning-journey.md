@@ -6,7 +6,7 @@ tags: [About Me]
 comments: true
 ---
 
-Hello, everyone! I'm Brennan Terre, currently pursuing a Master's Degree in Data Science at Deakin University in Australia. Originally, I created this blog to fulfill a requirement for my unit, SIT771 - Object Oriented Development. However, as I thought more about its potential, I realized it could serve as an invaluable companion throughout my studies - and perhaps even beyond!
+Hello, everyone! I'm Brennan, currently pursuing a Master's Degree in Data Science at Deakin University in Australia. Originally, I created this blog to fulfill a requirement for my unit, SIT771 - Object Oriented Development. However, as I thought more about its potential, I realized it could serve as an invaluable companion throughout my studies - and perhaps even beyond!
 
 I have been taking personal study notes in Notion, planning to integrate them into my Zettelkasten system, but I saw an opportunity here to document and share what I learn more openly. This blog is a reflection of my academic journey, intended not just for myself, but for anyone who might benefit from structured explanations of complex topics.
 
