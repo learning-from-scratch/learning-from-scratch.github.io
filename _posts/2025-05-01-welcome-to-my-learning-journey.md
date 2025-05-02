@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Learning Journey: Learning from Scratch()!"
-date: 2025-05-01 12:00:00 +1000
+date: 2025-05-01 02:00:00 +1000
 categories: [Personal, Introduction]
 tags: [About Me]
 comments: true
