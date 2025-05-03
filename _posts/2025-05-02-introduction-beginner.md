@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Programming and C#"
-date: 2025-05-02 12:52:38 +1000
+date: 2025-05-02 10:52:38 +1000
 tags: [C#, Programming, Beginner, Basics, .NET, Beginner]
 categories: [C# Fundamentals, Introduction]
 comments: true
@@ -12,7 +12,12 @@ Welcome to the very first step in our C# learning journey! If you've never progr
 
 ### What is Programming?
 
+<figure style="text-align: center;">
+  <img src="/assets/img/2025-05-02.webp" alt="It's like writing recipes for the computer" style="height: 300px">
+</figure>
+
 Think of programming like writing a very detailed recipe for a computer. A computer program is just a list of instructions that tell the computer exactly what to do, step by step, to achieve a goal. The computer's main processor (the CPU) reads and follows these instructions one after another.
+
 
 For instance, a simple program might have steps like:
 
