@@ -231,4 +231,4 @@ Let's practice explicit casting and operator precedence.
 
 ## Conclusion
 
-This advanced lesson covered crucial details about working with data in C#, including operator precedence, the necessity and risks of explicit type casting, the behavior of `var`, the potential inaccuracies of floating-point types, and the utility of nullable value types (`?`). Mastering these concepts allows for more precise control over data manipulation and helps prevent subtle bugs in your programs. We also learned the safer `TryParse` method for handling user input conversions.
+This lesson covered important details about working with data in C#, including operator precedence, the necessity and risks of explicit type casting, the behavior of `var`, the potential inaccuracies of floating-point types, and the utility of nullable value types (`?`). Mastering these concepts allows for more precise control over data manipulation and helps prevent subtle bugs in your programs. We also learned the safer `TryParse` method for handling user input conversions.
