@@ -16,7 +16,7 @@ This post covers:
 
 **(Prerequisite: Ensure you understand the concepts from the "Variables and Data Types" post.)**
 
-## Lecture: Expanding Your Data Toolkit
+## Lesson: Expanding Your Data Toolkit
 
 ### More Numeric Types: Precision and Range
 
