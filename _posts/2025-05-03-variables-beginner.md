@@ -238,7 +238,7 @@ Hey Charlie, you are approximately 20 years old this year.
 ```
 *(The age will depend on the current year when you run it.)*
 
-## Exercises: Rectangle Area Calculator
+## Exercise: Rectangle Area Calculator
 
 Let's practice! Create a program that calculates the area of a rectangle.
 

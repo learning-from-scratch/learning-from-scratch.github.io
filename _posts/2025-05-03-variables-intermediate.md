@@ -225,7 +225,7 @@ After Year 3: $1,157.63 (Interest: $55.13)
 Final value after 3 years: $1,157.63
 ```
 
-## Exercises: Enhanced Rectangle Calculator
+## Exercise: Enhanced Rectangle Calculator
 
 Let's enhance the Rectangle Calculator from the previous lesson.
 

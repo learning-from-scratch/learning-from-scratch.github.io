@@ -197,7 +197,7 @@ Next year you will be 26.
 
 Similar `TryParse` methods exist for other types (e.g., `double.TryParse`, `decimal.TryParse`, `bool.TryParse`).
 
-## Exercises: Temperature Converter with Casting
+## Exercise: Temperature Converter with Casting
 
 Let's practice explicit casting and operator precedence.
 

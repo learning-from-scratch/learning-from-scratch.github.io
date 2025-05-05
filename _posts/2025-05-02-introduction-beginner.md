@@ -192,7 +192,7 @@ Hello World!
 
 You'll repeat this Write-Save-Build-Run cycle often!
 
-## Exercises: Your First Program Modification
+## Exercise: Your First Program Modification
 
 Now that you can run "Hello World!", let's change it to print something different.
 
