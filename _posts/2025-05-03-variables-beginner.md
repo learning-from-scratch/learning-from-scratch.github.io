@@ -1,5 +1,5 @@
 ---
-title: "Variables and Data Types"
+title: "🗃️ Variables and Data Types"
 date: 2025-05-03 11:32:00 +1000
 tags: [C#, Programming, Basics, Variables, Data Types, Expressions, Beginner]
 categories: [C# Fundamentals]

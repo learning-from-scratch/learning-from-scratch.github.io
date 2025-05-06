@@ -1,21 +1,20 @@
 ---
-title: "More on Control Flow in C#"
+title: "🎮 More Control Flow in C#"
 date: 2025-05-05 15:45:41 +1000
 tags: [C#, Programming, Basics, Control Flow, If, Else, Switch, Loops, While, Do While, Intermediate]
 categories: [C# Fundamentals]
 comments: true
 ---
+In the previous Control Flow lesson, we learned how to make simple decisions using `if` and `else`. Now, let's expand our toolkit for controlling the program's execution path.
 
-In the Beginner Control Flow lesson, we learned how to make simple decisions using `if` and `else`. Now, let's expand our toolkit for controlling the program's execution path.
-
-This intermediate lesson covers:
+This lesson covers:
 *   Handling multiple choices efficiently using the `switch` statement.
 *   Repeating blocks of code using `while` loops (condition checked first).
 *   Repeating blocks of code using `do-while` loops (code runs at least once).
 
-**(Prerequisites: Ensure you understand the concepts from "Control Flow - Beginner".)**
+**(Prerequisites: Ensure you understand the concepts from "Control Flow".)**
 
-## Lecture Article: Multiple Choices and Repetition
+## Lesson: Multiple Choices and Repetition
 
 ### Handling Multiple Specific Cases: The `switch` Statement
 
@@ -298,4 +297,4 @@ Create a program that counts down from a number specified by the user.
 
 ## Conclusion
 
-This intermediate lesson introduced powerful tools for controlling program flow beyond simple `if-else`. The `switch` statement provides a clean way to handle multiple specific choices, while `while` and `do-while` loops allow us to repeat blocks of code based on conditions. Mastering loops and selection statements is essential for creating dynamic and interactive applications.
+This lesson introduced powerful tools for controlling program flow beyond simple `if-else`. The `switch` statement provides a clean way to handle multiple specific choices, while `while` and `do-while` loops allow us to repeat blocks of code based on conditions. Mastering loops and selection statements is essential for creating dynamic and interactive applications.

@@ -1,5 +1,5 @@
 ---
-title: "Variables and Data Types - In Depth"
+title: "🗃️ Variables and Data Types - In Depth"
 date: 2025-05-04 09:32:00 +1000
 tags: [C#, Programming, Basics, Variables, Data Types, Expressions, Operators, Casting, Precision, Advanced]
 categories: [C# Fundamentals]

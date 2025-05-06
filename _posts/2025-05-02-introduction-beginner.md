@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Programming and C#"
+title: "⌨️ Introduction to Programming and C#"
 date: 2025-05-02 10:52:38 +1000
 tags: [C#, Programming, Beginner, Basics, .NET, Beginner]
 categories: [C# Fundamentals, Introduction]
