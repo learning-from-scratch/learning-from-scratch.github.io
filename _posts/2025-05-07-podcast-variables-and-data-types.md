@@ -6,7 +6,7 @@ tags: [Programming, Data Science, Machine Learning, AI, Podcast]
 comments: true
 ---
 
-I'm thrilled to announce a new addition to this blog: **Learning from Scratch()**, a podcast series hosted by **me (Brennan)** and my co-host **Tala**.
+I'm thrilled to announce a new addition to this blog: **Learning from Scratch()**, a podcast series hosted by **me** and my co-host **Tala**.
 
 Together, we break down programming, Data Science, Machine Learning, and AI concepts into clear, relatable ideas.
 
