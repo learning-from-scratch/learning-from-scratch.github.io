@@ -1,5 +1,5 @@
 ---
-title: "🗃️ More on Variables and Data Types"
+title: "🗃️ Variables and Data Types - Part 2"
 date: 2025-05-03 17:41:10 +1000
 tags: [C#, Programming, Basics, Variables, Data Types, Expressions, Operators, Intermediate]
 categories: [C# Fundamentals]
@@ -20,7 +20,7 @@ This post covers:
 
 ### More Numeric Types: Precision and Range
 
-In the beginner lesson, we used `int` for whole numbers and `double` for decimals. C# offers more options, allowing you to choose the best type based on the size and precision of the number you need to store.
+In the previous lesson, we used `int` for whole numbers and `double` for decimals. C# offers more options, allowing you to choose the best type based on the size and precision of the number you need to store.
 
 **Integer Types (Whole Numbers):**
 

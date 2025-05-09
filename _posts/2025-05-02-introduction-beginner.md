@@ -231,4 +231,4 @@ Now that you can run "Hello World!", let's change it to print something differen
 
 ## Conclusion
 
-In this first beginner post, we learned what programming is, how C# code gets turned into instructions a computer understands using the .NET platform, and how to create, build, and run a basic "Hello World!" program. You also practiced modifying the code to print your own message. Great start! In the next post, we'll learn how to store information in our programs using variables.
+In this post, we learned what programming is, how C# code gets turned into instructions a computer understands using the .NET platform, and how to create, build, and run a basic "Hello World!" program. You also practiced modifying the code to print your own message. Great start! In the next post, we'll learn how to store information in our programs using variables.

@@ -1,5 +1,5 @@
 ---
-title: "🎮 More Control Flow in C#"
+title: "🎮 Control Flow in C# - Part 2"
 date: 2025-05-05 15:45:41 +1000
 tags: [C#, Programming, Basics, Control Flow, If, Else, Switch, Loops, While, Do While, Intermediate]
 categories: [C# Fundamentals]
