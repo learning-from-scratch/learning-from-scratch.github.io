@@ -196,7 +196,7 @@ using System;
 
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         Console.Write("Enter a whole number greater than 1: ");
         string input = Console.ReadLine();

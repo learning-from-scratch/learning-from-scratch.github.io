@@ -279,7 +279,7 @@ using System;
 
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         double num1 = 10.5;
         double num2 = 2.5;

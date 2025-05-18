@@ -136,7 +136,7 @@ using System;
 
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         Console.Write("Please enter your age (numeric): ");
         string input = Console.ReadLine();

@@ -125,7 +125,7 @@ public class PriorityTask : Task
         }
     }
 
-    public PriorityTask(string title, string description, int priority) 
+    public PriorityTask(string title, string description, int priority)
         : base(title, description)
     {
         Priority = priority;
@@ -143,7 +143,7 @@ public class DeadlineTask : Task
 {
     public DateTime DueDate { get; set; }
 
-    public DeadlineTask(string title, string description, DateTime dueDate) 
+    public DeadlineTask(string title, string description, DateTime dueDate)
         : base(title, description)
     {
         DueDate = dueDate;
@@ -347,7 +347,7 @@ public class TaskManager
 // Main program
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         TaskManager taskManager = new TaskManager();
         bool keepRunning = true;

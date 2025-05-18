@@ -155,7 +155,7 @@ using System;
 
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
         const decimal AnnualInterestRate = 0.05M; // 5% interest rate as a constant
         int years = 3; // Number of years to calculate
